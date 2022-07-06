@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abbesalaeddine
+- 👋 Hello, I’m @abbesalaeddine
 - 👀 I’m interested in smart optoelectronic systems
 - 🌱 I’m currently learning Python & C#
 
