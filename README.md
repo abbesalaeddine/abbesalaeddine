@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @abbesalaeddine
 - 👀 I’m interested in smart optoelectronic systems
-- 🌱 I’m currently learning Python, Javascript & C#
+- 🌱 I’m currently learning Python.
 
 <!---
 abbesalaeddine/abbesalaeddine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
