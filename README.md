@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @abbesalaeddine
-- 👀 I’m interested in smart optoelectronic systems
+- 👀 I’m interested in smart terahertz optoelectronic systems
 - 🌱 I’m currently learning Python.
 
 <!---
